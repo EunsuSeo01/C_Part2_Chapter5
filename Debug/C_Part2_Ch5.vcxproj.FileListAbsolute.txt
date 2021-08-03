@@ -1,0 +1,2 @@
+C:\Users\user\Documents\2021_SUMMER_STUDY\C_Part2_Ch5\Debug\C_Part2_Ch5.exe
+C:\Users\user\Documents\2021_SUMMER_STUDY\C_Part2_Ch5\Debug\C_Part2_Ch5.pdb
