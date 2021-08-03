@@ -1,7 +1,9 @@
+.vs/
 *.sln
 *.vcxproj
 *.filters
 *.user
+*.suo
 
 # Prerequisites
 *.d
@@ -44,7 +46,6 @@
 # Debug files
 *.dSYM/
 *.su
-*.suo
 *.idb
 *.pdb
 
