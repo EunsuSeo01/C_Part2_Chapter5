@@ -1,2 +1,4 @@
-﻿  5-8.c
+﻿  5-15.c
+C:\Users\user\Documents\2021_SUMMER_STUDY\C_Part2_Ch5\5-15.c(13,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'void *'입니다.
+C:\Users\user\Documents\2021_SUMMER_STUDY\C_Part2_Ch5\5-15.c(17,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'void *'입니다.
   C_Part2_Ch5.vcxproj -> C:\Users\user\Documents\2021_SUMMER_STUDY\C_Part2_Ch5\Debug\C_Part2_Ch5.exe
